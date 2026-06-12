@@ -1,0 +1,6 @@
+Javaの基本データ型は整数、文字及び浮動小数点数、と「論理値」となる
+
+整数型：byte型(8bit),shout型(16bit),Int型(32bit),long型()
+文字型：char型(16bit unicode1文字)
+浮動小数点型：float型(32bit).double型(64bit)
+理論型：boolean型(Ture/False)
